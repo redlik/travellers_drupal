@@ -22,14 +22,14 @@ web/sites/*/cache
 web/sites/simpletest
 
 # Ignore drupal core (if not versioning drupal sources)
-/core
-/modules/README.txt
-/profiles/README.txt
+web/core
+web/modules/README.txt
+web/profiles/README.txt
 web/sites/README.txt
 web/sites/example.sites.php
 web/sites/example.settings.local.php
 web/sites/development.services.yml
-/themes/README.txt
+web/themes/README.txt
 /vendor
 /.csslintrc
 /.editorconfig
@@ -45,3 +45,5 @@ web/sites/development.services.yml
 /robots.txt
 /update.php
 /web.config
+
+.idea/
