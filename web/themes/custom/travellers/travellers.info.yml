@@ -1,0 +1,5 @@
+name: Travellers
+type: theme
+description: 'Child theme for Travellers'
+core_version_requirement: ^9.4 || ^10
+base theme: bootstrap5
